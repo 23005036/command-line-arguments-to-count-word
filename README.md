@@ -25,8 +25,8 @@ close the file f1.
 
 ## PROGRAM:
 ```
-#pythonprogram for word count 
-#developed by: Beattrice Thomas
+#python program for word count 
+#developed by: Beatrice Thomas
 #register number : 23005036
 
 import sys
@@ -39,7 +39,7 @@ f1.close()
 
 ### OUTPUT:
 
-![Alt text](<Screenshot 2023-12-24 204249.png>)
+![Alt text](<Screenshot 2023-12-24 204545.png>)
 
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
